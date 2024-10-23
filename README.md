@@ -1,5 +1,5 @@
 # Foresight Power BI Developer Internship Program 
-## Project Client Overview
+## Client Overview
 Forggith Pharmaceuticals (Forggith), a pharmaceutical manufacturing company based in Germany, produces medical drugs that reach consumers through their distributors.
 
 Forggith provides its distributors with a sales template to record and submit monthly sales data. This information is then used by Forggith for reporting and analysis to support their sales and marketing objectives, with a focus on tracking and monitoring key performance indicators (KPIs).
