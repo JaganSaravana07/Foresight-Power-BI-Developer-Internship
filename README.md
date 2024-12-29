@@ -1,4 +1,4 @@
-# Foresight Power BI Developer Internship Program 
+# Forggith Pharmaceuticals 
 ## Client Overview
 Forggith Pharmaceuticals (Forggith), a pharmaceutical manufacturing company based in Germany, produces medical drugs that reach consumers through their distributors.
 
